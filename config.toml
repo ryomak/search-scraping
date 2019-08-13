@@ -1,0 +1,13 @@
+MaxNum = 300
+MyURL = "ryomak.info"
+ALL = true
+[[WORD]]
+NAME="golang web"
+[[WORD]]
+NAME="配列　スライス　Go"
+[[WORD]]
+NAME="プログラミング初心者"
+[[WORD]]
+NAME="OSS"
+[[WORD]]
+NAME="逆求人"
